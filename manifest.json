@@ -137,6 +137,315 @@
       ],
       "ast": [
         "aggregate/ast/55e56c108eb9b3671e5d1f882188e78422fe4593/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/55e56c108eb9b3671e5d1f882188e78422fe4593.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "jaraco-ui",
+          "ecosystem": "PYPI",
+          "version": "2.4",
+          "githubOrg": "jaraco",
+          "githubRepo": "jaraco.ui",
+          "githubUrl": "https://github.com/jaraco/jaraco.ui",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "jaraco-context",
+          "ecosystem": "PYPI",
+          "version": "6.1.2",
+          "githubOrg": "jaraco",
+          "githubRepo": "jaraco.context",
+          "githubCommit": "098f39c911d4504b2c718f2ff483ae24f1c4d378",
+          "githubTag": "v6.1.2",
+          "githubUrl": "https://github.com/jaraco/jaraco.context",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "keyring",
+          "ecosystem": "PYPI",
+          "version": "25.7.0",
+          "githubOrg": "jaraco",
+          "githubRepo": "keyring",
+          "githubCommit": "38c040133559682902f25fe96496756ee6849820",
+          "githubTag": "v25.7.0",
+          "githubUrl": "https://github.com/jaraco/keyring",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "requests-toolbelt",
+          "ecosystem": "PYPI",
+          "version": "1.0.0",
+          "githubOrg": "requests",
+          "githubRepo": "toolbelt",
+          "githubCommit": "b7d1a1fcdda9ebcd9afe5011690ab860fce780c2",
+          "githubTag": "1.0.0",
+          "githubUrl": "https://github.com/requests/toolbelt",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pynacl",
+          "ecosystem": "PYPI",
+          "version": "1.6.2",
+          "githubOrg": "pyca",
+          "githubRepo": "pynacl",
+          "githubCommit": "ecf41f55a3d8f1e10ce89c61c4b4d67f3f4467cf",
+          "githubTag": "1.6.2",
+          "githubUrl": "https://github.com/pyca/pynacl",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "packaging",
+          "ecosystem": "PYPI",
+          "version": "26.3.0",
+          "githubOrg": "pypa",
+          "githubRepo": "packaging",
+          "githubUrl": "https://github.com/pypa/packaging",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.2.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "3895f9829fc0e51882981773a823a658eb1d1636",
+          "githubTag": "v84.2.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "path",
+          "ecosystem": "PYPI",
+          "version": "17.1.1",
+          "githubOrg": "jaraco",
+          "githubRepo": "path",
+          "githubCommit": "0f86209f11199ceaff788c73f96ea5b5ec2318ee",
+          "githubTag": "v17.1.1",
+          "githubUrl": "https://github.com/jaraco/path",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "jaraco-vcs",
+          "ecosystem": "PYPI",
+          "version": "1.1",
+          "githubOrg": "jaraco",
+          "githubRepo": "jaraco.vcs",
+          "githubUrl": "https://github.com/jaraco/jaraco.vcs",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "build",
+          "ecosystem": "PYPI",
+          "version": "1.6.1",
+          "githubOrg": "pypa",
+          "githubRepo": "build",
+          "githubCommit": "89cccef40df9011f03bec18cf52c53d1096ed6ee",
+          "githubTag": "1.6.1",
+          "githubUrl": "https://github.com/pypa/build",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "subprocess-tee",
+          "ecosystem": "PYPI",
+          "version": "0.4.2",
+          "githubOrg": "pycontribs",
+          "githubRepo": "subprocess-tee",
+          "githubCommit": "ae1ccb7935f4b8a6397b5708d53bf0d7aca3afb3",
+          "githubTag": "v0.4.2",
+          "githubUrl": "https://github.com/pycontribs/subprocess-tee",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "requests",
+          "ecosystem": "PYPI",
+          "version": "2.34.2",
+          "githubOrg": "psf",
+          "githubRepo": "requests",
+          "githubCommit": "6e83187b8feb273ed4c6cdab5efd8d54901dfab3",
+          "githubTag": "v2.34.2",
+          "githubUrl": "https://github.com/psf/requests",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "ini2toml",
+          "ecosystem": "PYPI",
+          "version": "0.15.0",
+          "githubOrg": "abravalheri",
+          "githubRepo": "ini2toml",
+          "githubUrl": "https://github.com/abravalheri/ini2toml",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "jaraco-packaging",
+          "ecosystem": "PYPI",
+          "version": "10",
+          "githubOrg": "jaraco",
+          "githubRepo": "jaraco.packaging",
+          "githubUrl": "https://github.com/jaraco/jaraco.packaging",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "typer",
+          "ecosystem": "PYPI",
+          "version": "0.29.2",
+          "githubOrg": "fastapi",
+          "githubRepo": "typer",
+          "githubCommit": "2517edde5a1292a712e2f16e600754c52c6f00d9",
+          "githubTag": "0.29.2",
+          "githubUrl": "https://github.com/fastapi/typer",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "4.16.0",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "f29cd28d8ed7642cafb1d18daf5aa41be6a5c0aa",
+          "githubTag": "4.16.0",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "6",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "types-requests",
+          "ecosystem": "PYPI",
+          "version": "2.33.0.20261030",
+          "githubOrg": "python",
+          "githubRepo": "typeshed",
+          "githubUrl": "https://github.com/python/typeshed",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-home",
+          "ecosystem": "PYPI",
+          "version": "0.6.0",
+          "githubOrg": "jaraco",
+          "githubRepo": "pytest-home",
+          "githubCommit": "020ecd5d9be59d062af9e91382f3b16225116555",
+          "githubTag": "v0.6.0",
+          "githubUrl": "https://github.com/jaraco/pytest-home",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx",
+          "ecosystem": "PYPI",
+          "version": "3.5",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx",
+          "githubUrl": "https://github.com/sphinx-doc/sphinx",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "rst-linker",
+          "ecosystem": "PYPI",
+          "version": "1.9",
+          "githubOrg": "jaraco",
+          "githubRepo": "rst.linker",
+          "githubCommit": "1c401270bf6df04aa6ae4f750e13364b6fb2b74c",
+          "githubTag": "1.9",
+          "githubUrl": "https://github.com/jaraco/rst.linker",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "furo",
+          "ecosystem": "PYPI",
+          "version": "2025.12.19",
+          "githubOrg": "pradyunsg",
+          "githubRepo": "furo",
+          "githubCommit": "dd9e9f920494f24b9b8dd954ec9d07e0b9d12817",
+          "githubTag": "2025.12.19",
+          "githubUrl": "https://github.com/pradyunsg/furo",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-lint",
+          "ecosystem": "PYPI",
+          "version": "1.0.2",
+          "githubOrg": "sphinx-contrib",
+          "githubRepo": "sphinx-lint",
+          "githubCommit": "c883505f64b59c3c5c9375191e4ad9f98e727ccd",
+          "githubTag": "v1.0.2",
+          "githubUrl": "https://github.com/sphinx-contrib/sphinx-lint",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-checkdocs",
+          "ecosystem": "PYPI",
+          "version": "2.4",
+          "githubOrg": "jaraco",
+          "githubRepo": "pytest-checkdocs",
+          "githubUrl": "https://github.com/jaraco/pytest-checkdocs",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-ruff",
+          "ecosystem": "PYPI",
+          "version": "0.2.1",
+          "githubOrg": "businho",
+          "githubRepo": "pytest-ruff",
+          "githubCommit": "2098829cfb8f95c2885c6dec3e229ed3092e2c1e",
+          "githubTag": "v0.2.1",
+          "githubUrl": "https://github.com/businho/pytest-ruff",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-cov",
+          "ecosystem": "PYPI",
+          "version": "7.1.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-cov",
+          "githubCommit": "66c8a526b1246b5eb8fb1bc218878131bc628622",
+          "githubTag": "v7.1.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest-cov",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-enabler",
+          "ecosystem": "PYPI",
+          "version": "3.4",
+          "githubOrg": "jaraco",
+          "githubRepo": "pytest-enabler",
+          "githubUrl": "https://github.com/jaraco/pytest-enabler",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-mypy",
+          "ecosystem": "PYPI",
+          "version": "1.0.1",
+          "githubOrg": "realpython",
+          "githubRepo": "pytest-mypy",
+          "githubCommit": "1b3e931cb6ff00b47436455c69e3cd978b745479",
+          "githubTag": "v1.0.1",
+          "githubUrl": "https://github.com/realpython/pytest-mypy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "mypy",
+          "ecosystem": "PYPI",
+          "version": "1.19",
+          "githubOrg": "python",
+          "githubRepo": "mypy",
+          "githubUrl": "https://github.com/python/mypy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "types-setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.2.0.20261104",
+          "githubOrg": "python",
+          "githubRepo": "typeshed",
+          "githubUrl": "https://github.com/python/typeshed",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
